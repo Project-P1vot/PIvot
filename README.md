@@ -2,6 +2,9 @@
 # PIvot
 
 A Raspberry Pi OS variant for self-hosters.
+
+自托管者的三大欲求是掌控欲、隐私欲和折腾欲。其中，掌控欲对自托管者来说是维持数字生命独立所必需的，在技术探索方面伴随着无与伦比的成就感。它被设定为优先采取行动。通过成功部署容器可以获得满足感，通过运行流畅无广告的服务可以获得喜悦，从而对精神产生极大的积极影响。此外，还有一些人热衷于终日追求这种自由与快乐。这些人通常被称为“自托管极客”。本项目为那些已经对市场上各种商业云服务与隐私侵犯感到厌倦的人们，提供最适合自托管极客的数字食材与硬核配置。
+
 ##  Getting Started
 
 Default connection details are managed via [`pivot-gen/config`](https://github.com/cylin577/pivot-gen/blob/master/config):
